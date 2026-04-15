@@ -1,0 +1,7 @@
+C:\Users\Cano\source\repos\Promocion\Promocion\bin\Debug\Promocion.exe.config
+C:\Users\Cano\source\repos\Promocion\Promocion\bin\Debug\Promocion.exe
+C:\Users\Cano\source\repos\Promocion\Promocion\bin\Debug\Promocion.pdb
+C:\Users\Cano\source\repos\Promocion\Promocion\obj\Debug\Promocion.csproj.AssemblyReference.cache
+C:\Users\Cano\source\repos\Promocion\Promocion\obj\Debug\Promocion.csproj.CoreCompileInputs.cache
+C:\Users\Cano\source\repos\Promocion\Promocion\obj\Debug\Promocion.exe
+C:\Users\Cano\source\repos\Promocion\Promocion\obj\Debug\Promocion.pdb
